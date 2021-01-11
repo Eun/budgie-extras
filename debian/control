@@ -351,6 +351,7 @@ Depends: python3,
 	gir1.2-glib-2.0,
 	gir1.2-gtk-3.0,
 	gir1.2-peas-1.0,
+	gir1.2-gmenu-3.0,
 	${misc:Depends}, ${python3:Depends}
 Description: Applet to provide an alternative means to launch applications
  This is part of a suite of python3 and Vala based applets for the Budgie
